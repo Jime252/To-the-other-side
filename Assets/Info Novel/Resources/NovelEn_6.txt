@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?> 
+<Novel>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> I think it was the other way.</Text>
+	<Next>1</Next>
+	<Character>
+		<Name>Player</Name>
+		<Image>Player</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>2</Type>
+	<Speaker></Speaker>
+	<Text></Text>
+	<Next>2</Next>
+	<Character>
+		<Name></Name>
+		<Image></Image>
+	</Character>
+
+</Stories>
+
+</Novel>

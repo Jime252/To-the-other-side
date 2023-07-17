@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56450991c6234734f9e89ace6523c396, type: 3}
+  m_Name: Ninja 1
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 80220404435943193, guid: 4d49bbdeae5d6784ab44ce079b2f5b79, type: 3}
+  image: {fileID: 21300000, guid: c1a1545a215d76e46b63efe6caa60e5f, type: 3}
+  enemyName: Frigoquero
+  health: 85
+  level: 7
+  attack: 35
+  fire: 0
+  land: 0
+  grass: 0
+  water: 0
+  electric: 1

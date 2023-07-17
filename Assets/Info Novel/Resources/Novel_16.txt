@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?> 
+<Novel>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Esto está empezando a ser muy raro.</Text>
+	<Next>1</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> A lo mejor solo es que nosotros no tuvimos suerte.</Text>
+	<Next>2</Next>
+	<Character>
+		<Name>Lisa</Name>
+		<Image>Lisa</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>1</Type>
+	<Speaker>0-PREGUNTA</Speaker>
+	<Text> Viste al resto?_ No vi a nadie._ Hablé con Ana y Nerea._ Hablé con Ricky y Samuel.</Text>
+	<Next>3-4-4</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> No lo entiendo. Cómo es posible que en todo un pueblo no haya nadie?.</Text>
+	<Next>5</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>1</Type>
+	<Speaker>0-PREGUNTA</Speaker>
+	<Text> Y qué dicen?_ Lo mismo que vosotros._ En realidad no hablé con ellos._ Siguen buscando.</Text>
+	<Next>5-6-6</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Pffff Será mejor reunirnos.</Text>
+	<Next>7</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Pues esperemos un poco más a ver si ellos tienen suerte.</Text>
+	<Next>7</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Íbamos a entrar en esta casa de aquí a ver si hay alguien.</Text>
+	<Next>8</Next>
+	<Character>
+		<Name>Lisa</Name>
+		<Image>Lisa</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>1</Type>
+	<Speaker>0-PREGUNTA</Speaker>
+	<Text> Nos acompañas?_ Sí, voy con vosotros._ Voy a buscar a los otros a ver qué dicen._ No, voy a buscar en otro lago.</Text>
+	<Next>9-10-10</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Perfecto.</Text>
+	<Next>11</Next>
+	<Character>
+		<Name>Lisa</Name>
+		<Image>Lisa</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Vuelve cuando sepas algo.</Text>
+	<Next>11</Next>
+	<Character>
+		<Name>Lisa</Name>
+		<Image>Lisa</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>2</Type>
+	<Speaker></Speaker>
+	<Text></Text>
+	<Next>11</Next>
+	<Character>
+		<Name></Name>
+		<Image></Image>
+	</Character>
+
+</Stories>
+
+</Novel>

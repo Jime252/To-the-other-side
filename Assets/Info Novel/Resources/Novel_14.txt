@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?> 
+<Novel>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Bien, pues ya estamos todos.</Text>
+	<Next>1</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Habéis encontrado a alguien?</Text>
+	<Next>2</Next>
+	<Character>
+		<Name>Lisa</Name>
+		<Image>Lisa</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Nada de nada arriba.</Text>
+	<Next>3</Next>
+	<Character>
+		<Name>Samuel</Name>
+		<Image>Samuel</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Abajo tampoco vimos a nadie.</Text>
+	<Next>4</Next>
+	<Character>
+		<Name>Nerea</Name>
+		<Image>Nerea</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Listo entonces, nos vamos.</Text>
+	<Next>5</Next>
+	<Character>
+		<Name>Ana</Name>
+		<Image>Ana</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Tengo ganas de salir de este bosque.</Text>
+	<Next>6</Next>
+	<Character>
+		<Name>Nerea</Name>
+		<Image>Nerea</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Cuando lleguemos preguntamos si vieron al resto.</Text>
+	<Next>7</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>2</Type>
+	<Speaker></Speaker>
+	<Text></Text>
+	<Next>7</Next>
+	<Character>
+		<Name></Name>
+		<Image></Image>
+	</Character>
+
+</Stories>
+
+</Novel>

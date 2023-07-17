@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?> 
+<Novel>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Por qué volvemos a pararnos?</Text>
+	<Next>1</Next>
+	<Character>
+		<Name>Ana</Name>
+		<Image>Ana</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Hay que hablar que vamos a hacer.</Text>
+	<Next>2</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Primero buscamos al resto, no?</Text>
+	<Next>3</Next>
+	<Character>
+		<Name>Samuel</Name>
+		<Image>Samuel</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Sí, el profe sabrá qué hacer.</Text>
+	<Next>4</Next>
+	<Character>
+		<Name>Nerea</Name>
+		<Image>Nerea</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Pues nos dividimos y lo buscamos.</Text>
+	<Next>5</Next>
+	<Character>
+		<Name>Ricky</Name>
+		<Image>Ricky</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Pero no os vayais lejos, que nos podamos encontrar.</Text>
+	<Next>6</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>2</Type>
+	<Speaker></Speaker>
+	<Text></Text>
+	<Next>6</Next>
+	<Character>
+		<Name></Name>
+		<Image></Image>
+	</Character>
+
+</Stories>
+
+</Novel>

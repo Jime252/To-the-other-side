@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - npc
+  - enemy
+  - slider
+  - treasure
+  - pet
+  - keys
+  - hierba
+  - money
+  - level
+  - item
+  - start
+  - hike
+  - stop
+  - explicacion
+  - forest
+  - roads
+  - slot
+  - flashbackUno
+  - canvas
+  - transparency
+  - back
+  - twon
+  - two
+  - woman
+  - bye
+  - end
+  - itemEnd
+  - advice
+  - aux
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Colisions
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

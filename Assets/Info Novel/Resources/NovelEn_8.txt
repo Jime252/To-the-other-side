@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?> 
+<Novel>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> The path divides into three.</Text>
+	<Next>1</Next>
+	<Character>
+		<Name>Samuel</Name>
+		<Image>Samuel</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Which way do we go?</Text>
+	<Next>2</Next>
+	<Character>
+		<Name>Nerea</Name>
+		<Image>Nerea</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> We turn back, it's for the best.</Text>
+	<Next>3</Next>
+	<Character>
+		<Name>Ana</Name>
+		<Image>Ana</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> And if we split up?</Text>
+	<Next>4</Next>
+	<Character>
+		<Name>Lisa</Name>
+		<Image>Lisa</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> The main path should lead to the next town.</Text>
+	<Next>5</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> So we split up, top and bottom.</Text>
+	<Next>6</Next>
+	<Character>
+		<Name>Ricky</Name>
+		<Image>Ricky</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> And keep walking aimlessly?</Text>
+	<Next>7</Next>
+	<Character>
+		<Name>Ana</Name>
+		<Image>Ana</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> I'll stay here.</Text>
+	<Next>8</Next>
+	<Character>
+		<Name>Ana</Name>
+		<Image>Ana</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>1</Type>
+	<Speaker>0-PREGUNTA</Speaker>
+	<Text> What do we do then?_Let's split up._Let's go to the town._The others might be around here.</Text>
+	<Next>9-10-9</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> If we split up, we have a better chance of finding the others.</Text>
+	<Next>12</Next>
+	<Character>
+		<Name>Player</Name>
+		<Image>Player</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> This time, I think it's better to follow the town</Text>
+	<Next>11</Next>
+	<Character>
+		<Name>Player</Name>
+		<Image>Player</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Well, there's nothing more to say.</Text>
+	<Next>18</Next>
+	<Character>
+		<Name>Ana</Name>
+		<Image>Ana</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Alright then, two go up, two go down, and three stay.</Text>
+	<Next>13</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>1</Type>
+	<Speaker>0-PREGUNTA</Speaker>
+	<Text> Me..._I'll go up._I'll go down._I'll stay.</Text>
+	<Next>14-17-16</Next>
+	<Character>
+		<Name>Player</Name>
+		<Image>Player</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> I'll go with you.</Text>
+	<Next>15</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> You two be careful downstairs.</Text>
+	<Next>17</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Come back here in 30 minutes.</Text>
+	<Next>17</Next>
+	<Character>
+		<Name>Player</Name>
+		<Image>Player</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Legion of Reconnaissance, march!</Text>
+	<Next>18</Next>
+	<Character>
+		<Name>Ricky</Name>
+		<Image>Ricky</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>2</Type>
+	<Speaker></Speaker>
+	<Text></Text>
+	<Next>18</Next>
+	<Character>
+		<Name></Name>
+		<Image></Image>
+	</Character>
+
+</Stories>
+
+</Novel>

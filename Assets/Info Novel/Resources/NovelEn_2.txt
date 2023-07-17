@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?> 
+<Novel>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> You waited until now to tell me this?</Text>
+	<Next>1</Next>
+	<Character>
+		<Name>Ana</Name>
+		<Image>Ana</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> I can never talk to you.</Text>
+	<Next>2</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Look, if you keep doing that, we're done.</Text>
+	<Next>3</Next>
+	<Character>
+		<Name>Ana</Name>
+		<Image>Ana</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>1</Type>
+	<Speaker>0-PREGUNTA</Speaker>
+	<Text> And what do you want now?_ Uh... Nerea was looking for you._ Nothing, just passing by._ Whatever it is, I'm sure we can forget it and have fun on the trip.</Text>
+	<Next>4-5-6</Next>
+	<Character>
+		<Name>Ana</Name>
+		<Image>Ana</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Now let's go, thanks.</Text>
+	<Next>7</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Then go for a walk somewhere else.</Text>
+	<Next>7</Next>
+	<Character>
+		<Name>Ana</Name>
+		<Image>Ana</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Great, now we have a psychologist.</Text>
+	<Next>7</Next>
+	<Character>
+		<Name>Ana</Name>
+		<Image>Ana</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>2</Type>
+	<Speaker></Speaker>
+	<Text></Text>
+	<Next>7</Next>
+	<Character>
+		<Name></Name>
+		<Image></Image>
+	</Character>
+
+</Stories>
+
+</Novel>

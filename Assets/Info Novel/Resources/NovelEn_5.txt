@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?> 
+<Novel>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> I'm going to start a travel diary!</Text>
+	<Next>1</Next>
+	<Character>
+		<Name>Ricky</Name>
+		<Image>Ricky</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> And why is that?</Text>
+	<Next>2</Next>
+	<Character>
+		<Name>Samuel</Name>
+		<Image>Samuel</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Because when we grow up, it will be worth millions.</Text>
+	<Next>3</Next>
+	<Character>
+		<Name>Ricky</Name>
+		<Image>Ricky</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> This one is already imagining things.</Text>
+	<Next>4</Next>
+	<Character>
+		<Name>Ana</Name>
+		<Image>Ana</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Hahaha, keep dreaming.</Text>
+	<Next>5</Next>
+	<Character>
+		<Name>Nerea</Name>
+		<Image>Nerea</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> You'll see, and I won't even give you the time.</Text>
+	<Next>6</Next>
+	<Character>
+		<Name>Ricky</Name>
+		<Image>Ricky</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Guys, don't fall behind.</Text>
+	<Next>7</Next>
+	<Character>
+		<Name>Richard</Name>
+		<Image>Richard</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> And what's wrong with you? Why aren't you talking?</Text>
+	<Next>8</Next>
+	<Character>
+		<Name>Ricky</Name>
+		<Image>Ricky</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Nothing, I was just thinking about all the spelling mistakes I'll read in your notebook.</Text>
+	<Next>9</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Ha ha ha, so funny. I liked you better when you were quiet.</Text>
+	<Next>10</Next>
+	<Character>
+		<Name>Ricky</Name>
+		<Image>Ricky</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> What?</Text>
+	<Next>11</Next>
+	<Character>
+		<Name>Samuel</Name>
+		<Image>Samuel</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Ahhhhh!!!!!!</Text>
+	<Next>12</Next>
+	<Character>
+		<Name>Ana</Name>
+		<Image>Ana</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Gather around, gather around!</Text>
+	<Next>13</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>2</Type>
+	<Speaker></Speaker>
+	<Text></Text>
+	<Next>13</Next>
+	<Character>
+		<Name></Name>
+		<Image></Image>
+	</Character>
+
+</Stories>
+
+</Novel>

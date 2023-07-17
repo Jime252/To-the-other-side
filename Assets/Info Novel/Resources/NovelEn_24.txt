@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?> 
+<Novel>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> In the vast world of this enchanted game, a secret lies hidden, a mystery kept.</Text>
+	<Next>1</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> An enigmatic poem, a subtle riddle, where clues and rhymes will lead us to discover.</Text>
+	<Next>2</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> If you possess no orbs on your journey, beyond the walls, you must seek,</Text>
+	<Next>3</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Descend to the south, to an unmatched cabin, there you will find a unique destiny.</Text>
+	<Next>4</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> But if you possess one orb, within the walls you must return,</Text>
+	<Next>5</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> To the left side, descend without fear, Sam and Lisa await you with honor.</Text>
+	<Next>6</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> If two orbs accompany you on your journey, to the north, on the left, you must explore,</Text>
+	<Next>7</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> There you will find Ana and Nerea shining, a special encounter that will make you enjoy.</Text>
+	<Next>8</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> But if you possess three orbs, brave adventurer, to the east, where the sun is brighter,</Text>
+	<Next>9</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> At the end of the path, a Dojo will rise, Ricky and Samuel will challenge you endlessly.</Text>
+	<Next>10</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Good luck, brave player! The secret you eagerly desire to uncover,</Text>
+	<Next>11</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Follow the clues and unravel the enigma, glory and victory await you in this esteem.</Text>
+	<Next>12</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>2</Type>
+	<Speaker></Speaker>
+	<Text></Text>
+	<Next>12</Next>
+	<Character>
+		<Name></Name>
+		<Image></Image>
+	</Character>
+
+</Stories>
+
+</Novel>

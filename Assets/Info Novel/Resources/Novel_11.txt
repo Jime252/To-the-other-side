@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?> 
+<Novel>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Aquí no hay nada bro.</Text>
+	<Next>1</Next>
+	<Character>
+		<Name>Ricky</Name>
+		<Image>Ricky</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Debe ser el lugar donde guardan herramientas o algo así.</Text>
+	<Next>2</Next>
+	<Character>
+		<Name>Ricky</Name>
+		<Image>Ricky</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>1</Type>
+	<Speaker>0-PREGUNTA</Speaker>
+	<Text> Qué quieres hacer?_ Pues... volvamos ya._ Voy a mirar al fondo._ Quiero ver algo antes de irnos.</Text>
+	<Next>3-4-4</Next>
+	<Character>
+		<Name>Ricky</Name>
+		<Image>Ricky</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> De marcha entonces.</Text>
+	<Next>5</Next>
+	<Character>
+		<Name>Ricky</Name>
+		<Image>Ricky</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Okey... Pero no tardes que hemos caminado un montón.</Text>
+	<Next>5</Next>
+	<Character>
+		<Name>Ricky</Name>
+		<Image>Ricky</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>2</Type>
+	<Speaker></Speaker>
+	<Text></Text>
+	<Next>5</Next>
+	<Character>
+		<Name></Name>
+		<Image></Image>
+	</Character>
+
+</Stories>
+
+</Novel>

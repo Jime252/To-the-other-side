@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?> 
+<Novel>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text>We're going on end-of-term vacation!</Text>
+	<Next>1</Next>
+	<Character>
+		<Name>Ricky</Name>
+		<Image>Ricky</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text>Shall we form a group? That way we'll all go together.</Text>
+	<Next>2</Next>
+	<Character>
+		<Name>Nerea</Name>
+		<Image>Nerea</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text>Come on, guys, pack your things, don't forget anything, we won't come back, I won't repeat it.</Text>
+	<Next>3</Next>
+	<Character>
+		<Name>Richard</Name>
+		<Image>Richard</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>1</Type>
+	<Speaker>0-PREGUNTA</Speaker>
+	<Text>Choose an option._ I'll investigate the area._ I move forward._ Yes, teacher.</Text>
+	<Next>4-4-4</Next>
+	<Character>
+		<Name>Player</Name>
+		<Image>Player</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>2</Type>
+	<Speaker></Speaker>
+	<Text></Text>
+	<Next>4</Next>
+	<Character>
+		<Name></Name>
+		<Image></Image>
+	</Character>
+
+</Stories>
+
+</Novel>

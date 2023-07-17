@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?> 
+<Novel>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Bien, pues ya estamos todos.</Text>
+	<Next>1</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Habéis encontrado a alguien?</Text>
+	<Next>2</Next>
+	<Character>
+		<Name>Lisa</Name>
+		<Image>Lisa</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>1</Type>
+	<Speaker>0-PREGUNTA</Speaker>
+	<Text> Pues..._ Encontré algo raro pero no sé qué era._ No vimos nada especial._ Creo que tuve una especie de flashback pero no sabría explicarlo.</Text>
+	<Next>3-6-3</Next>
+	<Character>
+		<Name>Player</Name>
+		<Image>Player</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Ya, pero, encontraste a alguien o no?</Text>
+	<Next>4</Next>
+	<Character>
+		<Name>Ana</Name>
+		<Image>Ana</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Estaba contándonos algo, Ana</Text>
+	<Next>5</Next>
+	<Character>
+		<Name>Lisa</Name>
+		<Image>Lisa</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Si no habló con nadie, entonces puede contarlo de camino al pueblo. Quiero llegar de una vez.</Text>
+	<Next>6</Next>
+	<Character>
+		<Name>Ana</Name>
+		<Image>Ana</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Bueno... pues... Nos vamos?</Text>
+	<Next>7</Next>
+	<Character>
+		<Name>Samuel</Name>
+		<Image>Samuel</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Sí, es mejor llegar antes de que anochezca del todo.</Text>
+	<Next>8</Next>
+	<Character>
+		<Name>Nerea</Name>
+		<Image>Nerea</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> En busca del pueblo entonces.</Text>
+	<Next>9</Next>
+	<Character>
+		<Name>Ricky</Name>
+		<Image>Ricky</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Cuando estemos más tranquilos hablamos de todo.</Text>
+	<Next>10</Next>
+	<Character>
+		<Name>Sam</Name>
+		<Image>Sam</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>2</Type>
+	<Speaker></Speaker>
+	<Text></Text>
+	<Next>5</Next>
+	<Character>
+		<Name></Name>
+		<Image></Image>
+	</Character>
+
+</Stories>
+
+</Novel>

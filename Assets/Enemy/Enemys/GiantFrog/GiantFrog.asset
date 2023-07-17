@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56450991c6234734f9e89ace6523c396, type: 3}
+  m_Name: GiantFrog
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 2044930938454195420, guid: b8327d165be5c6547b473b7c88380e3c, type: 3}
+  image: {fileID: 21300000, guid: 9412cd433208fb44aabc7840c8a8a7d9, type: 3}
+  enemyName: Freshio joven
+  health: 70
+  level: 8
+  attack: 30
+  fire: 0
+  land: 0
+  grass: 0
+  water: 1
+  electric: 0

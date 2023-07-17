@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56450991c6234734f9e89ace6523c396, type: 3}
+  m_Name: Ninja 2
+  m_EditorClassIdentifier: 
+  sprite: {fileID: -3600226094467214917, guid: 050e7d73ccbd74e46a8d8cb2736f02d1, type: 3}
+  image: {fileID: 21300000, guid: 82b0ebdf5aceaed478ed41a4434bf222, type: 3}
+  enemyName: Gelifux
+  health: 85
+  level: 10
+  attack: 45
+  fire: 0
+  land: 0
+  grass: 0
+  water: 1
+  electric: 0

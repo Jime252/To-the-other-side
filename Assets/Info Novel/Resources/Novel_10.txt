@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?> 
+<Novel>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Qué hago en la tienda ahora? Qué acaba de pasar?</Text>
+	<Next>1</Next>
+	<Character>
+		<Name>Player</Name>
+		<Image>Player</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Tenías razón, los encontré el otro día.</Text>
+	<Next>2</Next>
+	<Character>
+		<Name>Ana</Name>
+		<Image>Ana</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Es Ana, pero no conozco al otro.</Text>
+	<Next>3</Next>
+	<Character>
+		<Name>Player</Name>
+		<Image>Player</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>1</Type>
+	<Speaker>0-PREGUNTA</Speaker>
+	<Text> Se ve nuestro pueblo, pero como si estuviera abandonado._ Ana, qué tal?_ Buenas._ Ya me verán.</Text>
+	<Next>4-4-4</Next>
+	<Character>
+		<Name>Ana</Name>
+		<Image>Ana</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Eso es por que está abandonado, vosotros estais aquí por lo que no hay nadie en el otro lado.</Text>
+	<Next>5</Next>
+	<Character>
+		<Name>XXXX</Name>
+		<Image>XXXX</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> No me ven o me están ignorando?</Text>
+	<Next>6</Next>
+	<Character>
+		<Name>Player</Name>
+		<Image>Player</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Se lo he contado a mi grupo de clase y quieren más información.</Text>
+	<Next>7</Next>
+	<Character>
+		<Name>Ana</Name>
+		<Image>Ana</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> A nosotros? El qué?</Text>
+	<Next>8</Next>
+	<Character>
+		<Name>Player</Name>
+		<Image>Player</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Pero como necesitamos un ordenador, solo buscamos cuando quedamos donde la biblioteca.</Text>
+	<Next>9</Next>
+	<Character>
+		<Name>Ana</Name>
+		<Image>Ana</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Y como ya nos han echado, tenemos que ir con cuidado.</Text>
+	<Next>10</Next>
+	<Character>
+		<Name>Ana</Name>
+		<Image>Ana</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Cuándo hemos quedado nosotros en la biblioteca?</Text>
+	<Next>11</Next>
+	<Character>
+		<Name>Player</Name>
+		<Image>Player</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> No deberías meteros mucho en esa página.</Text>
+	<Next>12</Next>
+	<Character>
+		<Name>XXXX</Name>
+		<Image>XXXX</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>2</Type>
+	<Speaker></Speaker>
+	<Text></Text>
+	<Next>12</Next>
+	<Character>
+		<Name></Name>
+		<Image></Image>
+	</Character>
+
+</Stories>
+
+</Novel>

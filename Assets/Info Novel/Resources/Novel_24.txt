@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?> 
+<Novel>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> En el vasto mundo de este juego encantado, se esconde un secreto, un misterio guardado.</Text>
+	<Next>1</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Un poema enigmático, un acertijo sutil, donde pistas y rimas nos llevarán a descubrir.</Text>
+	<Next>2</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Si ninguna bola posees en tu andar, fuera de las murallas debes buscar,</Text>
+	<Next>3</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> desciende al sur, en una cabaña sin par, allí encontrarás un destino singular.</Text>
+	<Next>4</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Pero si una bola tienes en tu poder, dentro de las murallas deberás volver,</Text>
+	<Next>5</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> hacia el lado izquierdo, baja sin temor, Sam y Lisa te esperan con honor.</Text>
+	<Next>6</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Dos bolas te acompañan en tu caminar, al norte, en la izquierda debes explorar,</Text>
+	<Next>7</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> allí encontrarás a Ana y Nerea brillar, un encuentro especial te harán disfrutar.</Text>
+	<Next>8</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Mas si tres bolas tienes, valiente aventurero, hacia el este, donde el sol es más certero,</Text>
+	<Next>9</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> al final del camino, un Dojo se alzará, Ricky y Samuel te desafiarán sin cesar.</Text>
+	<Next>10</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> ¡Buena suerte, valiente jugador! El secreto anhelas descubrir con ardor,</Text>
+	<Next>11</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> sigue las pistas y desentraña el enigma, la gloria y la victoria te esperan en esta estima.</Text>
+	<Next>12</Next>
+	<Character>
+		<Name>Pergamino</Name>
+		<Image>Spirit</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>2</Type>
+	<Speaker></Speaker>
+	<Text></Text>
+	<Next>12</Next>
+	<Character>
+		<Name></Name>
+		<Image></Image>
+	</Character>
+
+</Stories>
+
+</Novel>

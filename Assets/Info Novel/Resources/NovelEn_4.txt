@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?> 
+<Novel>
+
+<Stories>
+
+	<Type>1</Type>
+	<Speaker>0-PREGUNTA</Speaker>
+	<Text> Do you have everything?_ Yes._ No, not yet._ I don't know.</Text>
+	<Next>1-2-2</Next>
+	<Character>
+		<Name>Richard</Name>
+		<Image>Richard</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> On the way then, go outside where the rest are.</Text>
+	<Next>4</Next>
+	<Character>
+		<Name>Richard</Name>
+		<Image>Richard</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> Come on, we don't have all day.</Text>
+	<Next>3</Next>
+	<Character>
+		<Name>Richard</Name>
+		<Image>Richard</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>0</Type>
+	<Speaker>1-PERSONA</Speaker>
+	<Text> When you have everything, go outside where the rest are.</Text>
+	<Next>4</Next>
+	<Character>
+		<Name>Richard</Name>
+		<Image>Richard</Image>
+	</Character>
+
+</Stories>
+
+<Stories>
+
+	<Type>2</Type>
+	<Speaker></Speaker>
+	<Text></Text>
+	<Next>4</Next>
+	<Character>
+		<Name></Name>
+		<Image></Image>
+	</Character>
+
+</Stories>
+
+</Novel>
